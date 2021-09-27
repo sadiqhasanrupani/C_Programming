@@ -1,1 +1,2 @@
-int calsum(x,y,z)
+
+                    /* for Example :
